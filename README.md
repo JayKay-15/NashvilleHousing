@@ -1,3 +1,3 @@
 # NashvilleHousing
 
-This project focuses on cleaning Nashville, TN housing data in MySQL.
+This project focuses on cleaning housing data from Nashville, TN in MySQL.
